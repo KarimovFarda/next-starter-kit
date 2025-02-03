@@ -1,0 +1,12 @@
+# Ignore build and node_modules directories
+node_modules
+.next
+out
+dist
+build
+
+# Ignore specific file types
+*.log
+*.md
+*.yaml
+*.yml
